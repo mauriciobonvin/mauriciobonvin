@@ -7,7 +7,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mauricio-bonvin/">
-<img src="https://github.com/mauriciobonvin/mauriciobonvin/assets/84241596/5326b947-6344-4cc8-bf1f-d00ffd899842" alt="Linkedin" width="40" height="40"/>
+<img src="https://github.com/mauriciobonvin/mauriciobonvin/assets/84241596/fd4fa455-db42-4acd-b69c-681ca8f56997" alt="Linkedin" width="40" height="40"/>
 </p>
 <h3 align="left">Tools:</h3>
 Python, Rstudio, SQL
